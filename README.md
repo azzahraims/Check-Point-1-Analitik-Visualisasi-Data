@@ -1,4 +1,4 @@
-#Praktikum Analitik Visualisasi Data
+**Praktikum Analitik Visualisasi Data**
 
 Nama: Az Zahra Imsawati Sugianto  
 NIM: 2509116062  
